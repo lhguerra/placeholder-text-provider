@@ -1,0 +1,11 @@
+{
+  "name": "placeholder-text-provider",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Luiz Henrique Guerra (github.com/lhguerra)",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "koa": "^2.7.0"
+  }
+}
