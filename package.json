@@ -6,6 +6,6 @@
   "license": "MIT",
   "private": false,
   "dependencies": {
-    "koa": "^2.15.4"
+    "koa": "^2.16.1"
   }
 }
